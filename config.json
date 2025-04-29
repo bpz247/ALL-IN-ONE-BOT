@@ -2,20 +2,20 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://thalapathy:thalapathy69@thalapathy.4eplyza.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
         "hentai": true,
         "troll": true,
-        "economy" : true
+        "economy": true
     },
     "categories": {
         "anime": true,
         "basic": true,
         "utility": true,
         "moderation": true,
-        "core" :true,
+        "core": true,
         "lavalink": true,
         "fun": true,
         "distube": true,
